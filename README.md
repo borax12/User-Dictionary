@@ -6,7 +6,7 @@ Things learnt
 
 1. Content Providers - standard android content providers
 
-2. Content URIS
+2. Content URIS -content://Content_Authority/data  - eg content://user_dictionary/words here the user_dictionary is the content authrority and words is the data source
 
 3. Getting a content Resolver - using getContentResolver
 
